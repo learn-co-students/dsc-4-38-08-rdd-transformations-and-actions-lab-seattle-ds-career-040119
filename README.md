@@ -8,6 +8,8 @@ Note: Your are advised to visit all the included external links to see more exam
 
 ## Objectives
 
+You will be able to:
+
 * Apply the `map(func)` transformation to a given function on all elements of an RDD in different partitions. 
 * Use `collect()` action to trigger the processing stage of spark's lazy evaluation. 
 * Use `count()` action to calculate the number of elements of a parallelized RDD.
@@ -235,6 +237,6 @@ Similarly , we can apply other filters.
 
 - [Programming with RDDs](https://runawayhorse001.github.io/LearningApacheSpark/rdd.html)
 
-# SUMMARY
+## Summary
 
 In this lab, we saw how we can apply basic transformations and actions on the data stofred within RDDs. We also looked at the Lazy Evaluation performed by Spark and learnt to differentiate between transformations and actions. We saw how lambda functions can be used as a one-line approach towards declaring functions in Spark. In next lessons, we shall see more transformations and actions on RDDs. 
