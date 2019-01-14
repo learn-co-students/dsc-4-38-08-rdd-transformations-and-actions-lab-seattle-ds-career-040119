@@ -10,11 +10,11 @@ Note: Your are advised to visit all the included external links to see more exam
 
 You will be able to:
 
-* Apply the `map(func)` transformation to a given function on all elements of an RDD in different partitions. 
-* Use `collect()` action to trigger the processing stage of spark's lazy evaluation. 
-* Use `count()` action to calculate the number of elements of a parallelized RDD.
-* Use `filter(func)` to filter unwanted data from RDDs.
-* Develop an understanding of Python's lambda functions for RDDs processing. 
+* Apply the `map(func)` transformation to a given function on all elements of an RDD in different partitions
+* Use `collect()` action to trigger the processing stage of spark's lazy evaluation
+* Use `count()` action to calculate the number of elements of a parallelized RDD
+* Use `filter(func)` to filter unwanted data from RDDs
+* Develop an understanding of Python's lambda functions for RDDs processing
 
 ## Start with a parallelized RDD
 
