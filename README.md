@@ -1,5 +1,5 @@
 
-# RDDs Transformations and Actions
+# RDD Transformations and Actions
 
 ## Introduction
 In previous lab, we saw how to create an RDD from a Python list object, set the number of logical partitions and change basic RDD properties. We also looked at how RDD operations can be split into actions and transformations. In this lesson, we will practice some basic actions and transformations on the RDD we created in the previous lab. 
